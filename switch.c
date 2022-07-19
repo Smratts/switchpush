@@ -7,9 +7,10 @@ int x=2;
 switch(x)
 {case y: printf("number is 2");
 break;
-default: printf("case default");
+default : printf("default");
 break;
 case z: printf("numberis 23");
 break;
+vi 
 }
 }
