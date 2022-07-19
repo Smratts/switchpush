@@ -11,6 +11,6 @@ default : printf("default");
 break;
 case z: printf("numberis 23");
 break;
-vi 
+
 }
 }
